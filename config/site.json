@@ -1,8 +1,8 @@
 {
-  "userPrincipalName": "spencer.woo@outlook.com",
+  "userPrincipalName": "admin@fsj14.partner.onmschina.cn",
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive",
-  "baseDirectory": "/Public",
+  "title": "e4 OneDrive",
+  "baseDirectory": "/games",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
